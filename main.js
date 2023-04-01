@@ -1,3 +1,3 @@
 const fs = require('fs');
-fs.unlinkSync('index.html'); // удаляем файл index.html
+fs.unlinkSync('index.html');
 
